@@ -16,7 +16,8 @@ The problem is modeled and solved using Linear Programming (LP).
 
 ## Setup & Execution
 
-**1. Environment Setup**
+**1. Environment Setup:**
+
 To avoid system-managed environment restrictions (PEP 668) on macOS/Linux, set up a Python virtual environment:
 
 ```bash
