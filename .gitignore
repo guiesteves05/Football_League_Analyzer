@@ -1,1 +1,16 @@
+.DS_Store# Python virtual environment
+venv/
+ENV/
+env/
+
+# Byte-compiled / Python cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
 .DS_Store
+
+# Temporary test files & PDFs
+input.txt
+tester.txt
+*.pdf

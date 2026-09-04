@@ -16,9 +16,18 @@ The problem is modeled and solved using Linear Programming (LP).
 
 ## Setup & Execution
 
-**1. Install dependencies:**
-Requires the PuLP library and an LP solver (like GLPK or CBC).
-`python3 -m pip install pulp`
+**1. Environment Setup**
+To avoid system-managed environment restrictions (PEP 668) on macOS/Linux, set up a Python virtual environment:
+
+```bash
+# Create a virtual environment
+python3 -m venv venv
+
+# Activate the virtual environment
+source venv/bin/activate
+
+# Install PuLP inside the environment
+./venv/bin/python3 -m pip install pulp
 
 **2. Run the script:**
 `python3 LigaBetclic.py < input.txt`
