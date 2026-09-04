@@ -28,6 +28,7 @@ source venv/bin/activate
 
 # Install PuLP inside the environment
 ./venv/bin/python3 -m pip install pulp
+```
 
 **2. Run the script:**
 `python3 LigaBetclic.py < input.txt`
