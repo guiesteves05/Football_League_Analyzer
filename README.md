@@ -31,8 +31,10 @@ source venv/bin/activate
 ```
 
 **2. Run the script:**
-`python3 LigaBetclic.py < input.txt`
+```bash
+python3 LigaBetclic.py < input.txt`
+```
 
-## Input / Output Format
+## Input / Output Formatg
 *   **Input**: The first line contains the number of teams (`n`) and matches played (`m`). The following `m` lines detail the matches with the home team, away team, and the result (winning team ID, or 0 for a draw).
 *   **Output**: Outputs `n` lines containing the minimum wins required for each team. If a team cannot mathematically win the championship, it outputs `-1`.
