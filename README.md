@@ -1,4 +1,4 @@
-# Football Championship Analyzer
+# Football League Analyzer
 
 This project was developed, in Python, for the Analysis and Algorithms Synthesis course in January 2026. The tool acts as an analytical engine for a fictional company, SnailSoft, to evaluate team standings in a football championship. This project helped me learn the basics on Linear Programming.
 
