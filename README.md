@@ -1,6 +1,6 @@
 # Football League Analyzer
 
-A football championship analyzer developed in Python for the Analysis and Algorithms Synthesis course in January 2026. This project acts as an analytical engine for a fictional company, SnailSoft, to evaluate team standings in a football championship. This project helped me learn the basics on Linear Programming.
+A football championship analyzer developed in Python for the Analysis and Algorithms Synthesis course in January 2026. This script acts as an analytical engine for a fictional company, SnailSoft, to evaluate team standings in a football championship. This project helped me learn the basics on Linear Programming.
 
 ## Problem Description
 The goal is to calculate the absolute minimum number of additional games a specific team must win to mathematically secure the championship (assuming all other match outcomes are favorable to them). 
